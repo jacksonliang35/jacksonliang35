@@ -1,4 +1,4 @@
-Hi there! Please check out my [resume](./Yuchen_resume).
+Hi there! Please check out my [resume](Yuchen_resume.pdf).
 
 Directories for selected projects
 
